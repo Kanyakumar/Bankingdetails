@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: customerservice
+  profiles:
+    active: local
+server:
+  port: 8085
